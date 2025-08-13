@@ -1,0 +1,8 @@
+0 Healthy
+1 anthracnose
+2 bacilliform_virus
+3 bacterial_spot
+4 leaf_blight
+5 leaf_spot
+6 mild_mosaic
+7 mosaic_virus

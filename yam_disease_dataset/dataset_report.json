@@ -1,0 +1,28 @@
+{
+  "dataset_info": {
+    "total_images": 326,
+    "categories": 8,
+    "creation_date": "2025-08-13 00:47:21",
+    "base_directory": "yam_disease_dataset"
+  },
+  "category_breakdown": {
+    "healthy": 27,
+    "anthracnose": 44,
+    "leaf_spot": 48,
+    "leaf_blight": 45,
+    "mosaic_virus": 48,
+    "mild_mosaic": 41,
+    "bacterial_spot": 45,
+    "bacilliform_virus": 28
+  },
+  "disease_descriptions": {
+    "healthy": "Normal, healthy yam leaves without disease symptoms",
+    "anthracnose": "Dark spots with yellow halos, caused by Colletotrichum species",
+    "leaf_spot": "Concentric rings and brownish spots on leaves",
+    "leaf_blight": "Irregular spots with chlorosis and inward curling",
+    "mosaic_virus": "Mottled patterns and chlorotic patches on leaves",
+    "mild_mosaic": "Mild mottling and mosaic patterns, less severe symptoms",
+    "bacterial_spot": "Angular, water-soaked lesions with yellow halos",
+    "bacilliform_virus": "Generally mild symptoms, may show chlorosis or mosaic"
+  }
+}
